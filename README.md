@@ -83,10 +83,6 @@ This project is a simple Employee Management Dashboard built with PHP and MySQL.
 - `style.css`: Basic styling for the dashboard.
 - `.env`: Environment variables for database configuration.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [PHP](https://www.php.net/)
